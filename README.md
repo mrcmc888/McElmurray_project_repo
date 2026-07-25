@@ -21,8 +21,8 @@ When running a new notebook: Select the kernel from the previous notebook before
 Interesting Results:<br>
 
 The results of my Random Forest model WITHOUT GroupKFold (by transition metal):<br>
-MAE:  0.082 µB/atom<br>
-RMSE: 0.161 µB/atom<br>
-R²:   0.791<br>
-R² (GroupKFold):   0.528<br> (EXTREME DROP)
+MAE:  0.083 µB/atom<br>
+RMSE: 0.170 µB/atom<br>
+R²:   0.835<br>
+R² (GroupKFold): 0.385<br> (EXTREME DROP)
 
